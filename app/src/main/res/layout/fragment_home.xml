@@ -57,6 +57,7 @@
                     android:background="@android:color/transparent"
                     android:drawablePadding="10dp"
                     android:hint="Search"
+                    android:drawableStart="@drawable/baseline_search_24"
                     android:padding="10dp"
                     android:textSize="@dimen/_10ssp"
                     android:textColorHint="@color/black"/>
